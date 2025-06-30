@@ -1,0 +1,1 @@
+# A IDEIA CENTRAL AQUI é FAZER UMA MINI REDE SOCIAL, com FEED, Chat, e perfil autenticado
